@@ -10,3 +10,5 @@
 
 ##### Download FirebaseArduino library from : https://github.com/FirebaseExtended/firebase-arduino.
 
+##### Then You are ready to go:
+
